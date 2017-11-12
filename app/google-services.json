@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725389170132",
+    "firebase_url": "https://wifiadbclient.firebaseio.com",
+    "project_id": "wifiadbclient",
+    "storage_bucket": "wifiadbclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725389170132:android:189a21c37b8bf4c8",
+        "android_client_info": {
+          "package_name": "com.frozensparks.wifiadbclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725389170132-pcoj80st53pnsremeh5qlm88iois7oca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frozensparks.wifiadbclient",
+            "certificate_hash": "88e182e0e95508984a6bf8c7fdd42b7a4fe24a70"
+          }
+        },
+        {
+          "client_id": "725389170132-g1vav411rl49d6j7hjgu4add58v4nrlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84gu4PBCZMz__rVWtIMkekaMixWiAU7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725389170132-g1vav411rl49d6j7hjgu4add58v4nrlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
